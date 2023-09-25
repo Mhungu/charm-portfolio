@@ -1,14 +1,12 @@
 ---
-date: "2022-07-08T11:50:54.000Z"
-title: Three Blog
-tagline: This is a Tagline If you want to add.
+date: '2023-09-22T11:50:54.000Z'
+title: Autoprogettazione
+tagline: Made in collaboration with Noble Harasha
 preview: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-  when an unknown printer took a galley of type and scrambled it to make a type
-  specimen book.
-image: >-
-  https://images.unsplash.com/photo-1640017955477-75b58521007d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
+  In his book Autoprogettazione (which roughly translates to Self-Design), Mari
+  talks of the consumer also being involved in the design and fabrication of
+  products in order to become more critical of the objects one buys.
+image: /images/IMG-4937.jpg
 ---
 
 # Heading One
