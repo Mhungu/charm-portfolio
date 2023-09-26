@@ -1,6 +1,6 @@
 ---
 date: '2023-05-13T11:50:54.000Z'
-title: 'What makes Simmons, Simmons?: Simmons Squared'
+title: Simmons Squared
 tagline: Made in collaboration with Khushi Parikh
 preview: >-
   Using fast-curing Rockite we experimented with many ways of making the molds
@@ -9,52 +9,19 @@ preview: >-
 image: /images/IMG-5004.jpg
 ---
 
-# Heading One
+# Concept
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+A representation of the Simmons building focusing on resolution in 3D, but with a new medium. Using fast-curing Rockite we experimented with many ways of making the molds and many different scales of models. When presenting our Simmons 3-D Models Our concept sprung from the idea of making a Simmons souvenir that is universally symmetrical from all sides. While we maintained some of the more iconic parts of the Simmons building, it is not as instantly recognizable as our earlier representation [here](http://localhost:3000/blog/secondblog).
 
-## This is Heading Two
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+# Fabrication
 
-### This is Heading Three
+We originally used scraps of sheet metal and PLA pieces to make the large 5” x 5” x 5” cube, however, this was too much Rockite to cast at once, which is why there is a stratification of the different layers of Rockite. 
+![500,500 object](/images/IMG_8777cropped.JPG) 
+We then used laser-cut Masonite and foam to make 1/8 sections of a larger 6” x 6” x 6” Simmons cube that would be stackable. This helped us get crisp edges and deep indents, but was not great for specific detailing.
+![object](/images/IMG_8785edit.JPG) 
+![object](/images/IMG_8789cropped.JPG) 
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-#### This is Heading Four With Code Block
-
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
-```
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
----
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-## Images
-
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+We ultimately used 3D-printed molds (and a bucket load of Vaseline) to make the 2.5” x 2.5” x 2.5” cube with the iconic Simmons detailing. We first printed the designs of the 6 faces we wanted and then we made an outside box to hold the 6 faces in place as the concrete hardened.
+![object](/images/IMG_8804cropped.JPG) 
+![object](/images/Cube_Simmons.JPG) 
