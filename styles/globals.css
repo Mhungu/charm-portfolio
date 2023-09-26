@@ -13,13 +13,13 @@ body {
 }
 
 .gradient-circle {
-  position: absolute;
+  position: sticky;
   pointer-events: none;
   z-index: 100;
   top: -30px;
   height: 40px;
   width: 100vw;
-  opacity: 0.5;
+  opacity: 1;
   filter: blur(40px);
   background: radial-gradient(
     circle,
@@ -34,7 +34,7 @@ body {
   bottom: -20px;
   height: 30px;
   width: 100vw;
-  opacity: 0.5;
+  opacity: 1;
   filter: blur(40px);
   background: radial-gradient(
     circle,
@@ -59,8 +59,8 @@ body {
   border-radius: inherit;
 }
 
-/* 
-* Prevents issues when the parent creates a 
+/*
+* Prevents issues when the parent creates a
 * stacking context. (For example, using the transform
 * property )
 */
